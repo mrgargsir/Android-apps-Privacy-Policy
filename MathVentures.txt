@@ -1,0 +1,30 @@
+Privacy Policy
+
+Developer: MRGARGSIR 
+
+This privacy policy applies to the mobile applications developed and published by MRGARGSIR on the Google Play Store.
+
+Data Collection  
+Our applications do not collect, store, or share any personal information from users.
+
+All app functionality operates entirely on the user's device (client-side). No personal data such as name, email address, location, contacts, or files is collected or transmitted.
+
+Children’s Privacy  
+Our applications may include games or utilities suitable for children. We do not knowingly collect any personal data from children under the age of 13.
+
+Third-Party Services  
+Our apps may display advertisements provided by third-party services such as Google AdMob. These services may collect limited information required for ad delivery in accordance with their own privacy policies.
+
+For more information please review Google's privacy policy:
+https://policies.google.com/privacy
+
+Data Security  
+Because our applications do not collect or store user data, there is no transmission or storage of personal information on our servers.
+
+Changes to This Policy  
+We may update this privacy policy in the future. Any changes will be posted on this page.
+
+Contact  
+If you have questions about this policy, you may contact the developer at:
+
+mrgargsir@gmail.com 
